@@ -1,2 +1,2 @@
 # first-protect
-hello world!
+This my learning records.
